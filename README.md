@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Souvik74
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me email: souvik9205@gmail.com
 
 <!---
